@@ -11,8 +11,8 @@ A simple video recorder application using OpenCV in Python. This application all
 Press 'Space' to start/stop recording. Press 'ESC' to quit the application.
 
 ## Requirements
-- Python 3.x
+- Python 3
 - OpenCV library (`pip install opencv-python`)
 
 ## Screenshot/Video
-![Demo]
+![output.avi]
